@@ -3,5 +3,6 @@ public class Arrayintro {
         String[] name ={"praveen", "kabilan", "jeeva", "ravi"};
         name[0] = "Java";
         System.out.println(name[2]);
+        System.out.println(name.length);
     }
 }
