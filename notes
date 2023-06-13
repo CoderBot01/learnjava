@@ -1,0 +1,64 @@
+ide-integrated development kit
+complier
+-jdk-java development kit
+we easily code a java in the jshell in window shell
+
+javacode-----javac(compiler)------bytecode-----jre----jvm
+//comments
+/* multiline commands */
+
+System.out.println("bye!"); //print
+
+wora---write once run anywhere
+strongly typed message
+VSRIABLES
+ type variablename = value;
+ DATA TYPES
+data types--primitive---4
+1.integer int=4bytes
+2.float  float=4bytes
+3.character char=2bytes
+4.boolean  boolean=1byte
+5.double double=8 bytes
+6.short short=2 bytes
+
+non primitive
+ to call methods
+ created by a developer
+ String
+ Arrays
+ Classes
+ Interfaces
+
+ TYPE CASTings
+ wide CASTing=smaller to larger types(automatic)
+ byte,short,char,int,long,float,double
+
+ narrow CASTing=larger to smaller types(manual)
+double,float,long,int,char,short,byte
+
+OPERATORS
+arithmetic +,-,*,/,%,++,--
+assignment =,+=,*=,-=,/=,%=,&=,|=,^=,>>=,<<=,
+comparison ==,!=,<=,>=,<,>
+logical &&,||,!
+bitwise
+
+String special characters
+\"--insert a double qoute--\"praveen\"
+\'--it's like--it\'s'
+\\--single backslash
+\n--new line
+\r --carriage return
+\t--tab
+\b--backspace
+\f--form feed
+Math class
+Math.max
+Math.min
+Math.sqrt()
+Math.abs(-4.2)//changed into positive
+Math.random()//return a random number
+
+  ARRAY
+datatype[] variablename ={1,2,3,4,5,6,7}
